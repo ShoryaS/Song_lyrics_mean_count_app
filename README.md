@@ -20,3 +20,5 @@ py -3 -m pip install requests
 * Coldplay
 * Pink Floyd
 * Moby
+
+Note: Application for now is fetching first '10' recordings for an artist from Web service call (this can be modified in later versions).
